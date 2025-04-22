@@ -1,0 +1,13 @@
+---
+title: "Holy Update Supper Day and Night"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@Announcement Ping @Giveaway Ping 
+
+Multiple important changes have been made to the server featuring the promotions info revamp and the tickets revamp.
+
+:arrow_blue: ⁠📝┊promotion-info 
+:arrow_blue: ⁠🎫┊tickets

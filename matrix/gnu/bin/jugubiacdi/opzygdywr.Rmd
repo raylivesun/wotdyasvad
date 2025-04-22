@@ -1,0 +1,8 @@
+---
+title: "Running Static Path Local"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Thx for 7k Members🥳

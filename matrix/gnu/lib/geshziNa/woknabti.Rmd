@@ -1,0 +1,42 @@
+---
+title: "Market's Policy Extras And GPA"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Marketplace Terms
+General Terms
+Definition of key terms (e.g., "user," "seller," "buyer").
+Acknowledgment of the platform's rules.
+User Accounts
+Requirements for creating an account.
+Responsibilities for maintaining account security.
+Policies regarding account suspension or termination.
+Seller Policies
+Rules for listing and selling items (e.g., pricing, descriptions, prohibited items).
+Fee structure (e.g., listing fees, transaction fees).
+Seller obligations, such as fulfilling orders and handling returns.
+Buyer Policies
+Guidelines for purchasing items.
+Payment terms (e.g., accepted payment methods, payment security).
+Dispute resolution and refund policies.
+Prohibited Activities
+Actions that are not allowed, such as selling counterfeit goods, fraud, or violating laws.
+Payments and Fees
+How payments are processed.
+Timing and methods of disbursements to sellers.
+Details of fees charged by the platform.
+Dispute Resolution
+Procedures for resolving disputes between buyers and sellers.
+Role of the platform in mediating disputes.
+Liability
+Limitation of liability for the platform.
+Disclaimer of warranties.
+Privacy
+Explanation of how user data is collected, used, and shared.
+Termination
+Conditions under which a user or the platform can terminate an account.
+Consequences of termination (e.g., loss of access to funds, removal of listings).
+Governing Law
+Jurisdiction and laws that govern the terms of use.

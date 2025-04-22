@@ -1,0 +1,71 @@
+---
+title: "Help Servers Richer Log Market's"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+🪽 RULES
+
+1️⃣ Be Respectful
+Treat all members with kindness, regardless of their skill level or experience.
+No discrimination, personal attacks, or harassment.
+
+2️⃣ No Spamming
+Avoid sending repeated messages, emojis, or excessive pings.
+
+3️⃣ Family-Friendly Content Only
+
+Keep all messages, usernames, and shared content appropriate.
+NSFW, offensive, or illegal content is strictly prohibited.
+
+4️⃣ Stay On Topic
+Use the correct channels for discussions
+
+5️⃣ Trading and Collaboration Rules
+Fair Trading Only:
+If you’re buying, selling, or trading assets like scripts, models, 
+or services, ensure both parties agree on terms before proceeding.
+Scams or failure to deliver promised work will result in immediate 
+action.
+No Asset Stealing:
+Sharing stolen or uncredited assets violates both this server's rules 
+and Roblox’s Terms of Use.
+No Unpaid Work Exploitation:
+If you’re hiring others for development work, be transparent about payment 
+or credit. Misleading developers is not allowed.
+Public Showcases Only:
+Keep private project collaborations within DMs unless both parties agree 
+to discuss it in public channels.
+
+6️⃣ No Unauthorized Promotions
+Self-promotion (e.g., games, social links, YouTube videos) requires 
+admin approval.
+
+7️⃣ No Hacking or Exploits Discussion
+Discussions or sharing of tools related to hacking, exploiting, 
+or bypassing Roblox Studio protections is strictly forbidden.
+
+8️⃣ Follow Staff Instructions
+Moderators are here to help maintain a positive environment.
+If you disagree with a decision, contact staff privately.
+
+9️⃣ Report Rule Breakers
+Use the server’s reporting tools to flag bad behavior or scams.
+False reporting may lead to penalties.
+Special Notes for Developers
+Always credit creators if you’re sharing assets, tools, or tutorials.
+Collaboration is encouraged, but ensure mutual respect and transparency 
+in your dealings.
+Stay compliant with Roblox's Terms of Use when sharing or trading anything 
+related to your work.
+
+Consequences for Breaking Rules
+Violations may result in:
+
+Warnings
+Temporary or permanent bans
+Restricted access to certain features
+Need Help?
+For Discord issues, message a moderator or admin directly.
+Check out the FAQ Channel for quick answers.

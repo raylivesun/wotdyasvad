@@ -1,0 +1,17 @@
+---
+title: "Market Place Develop GPA"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@Announcement Ping Please Congratulate The Following Persons on making it on to our Marketplace Department 
+@king
+@TheTechnician_13
+Apps Are still open if you would like a chance on our team feel free to apply.
+
+Event Organizer Applications 
+https://forms.gle/BjNPQC7HYekMbQUy9
+
+Marketplace Moderator Applications 
+https://forms.gle/wZCuZFNk8LpVcQzV9 

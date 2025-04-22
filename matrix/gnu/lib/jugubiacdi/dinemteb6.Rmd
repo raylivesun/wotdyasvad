@@ -1,0 +1,8 @@
+---
+title: "Market New Product Local"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@Announcement Ping Btw Marketplace Moderator And Event Organizer  Applications are still open  they will be closed on the 15th of March

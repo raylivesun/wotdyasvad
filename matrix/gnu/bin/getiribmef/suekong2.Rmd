@@ -1,0 +1,18 @@
+---
+title: "Static Refrence Objects"
+author: "admin"
+date: "2025-04-21"
+output: html_document
+---
+
+🎵 Free Music Artist for Hire! 🎵
+
+I create music for fun, and it’s 100% FREE! If you need custom music for your 
+game, project, or anything else, just hit me up!
+
+If I don’t reply immediately, it’s for one of three reasons:
+    •    I’m busy
+    •    I’m asleep
+    •    …Or I’m dead
+
+Otherwise, I’m always available to text! Let’s make something awesome together. 🎶

@@ -1,0 +1,12 @@
+---
+title: "Fired Exp about Cosh Hyperbolic"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@everyone
+
+We have decided to convert the marketplace into forum channels
+
+Please use the forums from now on! Any issues with the forums please ping me. Thank you guys!

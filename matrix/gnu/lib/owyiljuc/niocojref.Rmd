@@ -1,0 +1,9 @@
+---
+title: "Edge Browser Server Log"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+The giveaway winner role will only be handed out to server-ran giveaways from 
+⁠No Access from now on

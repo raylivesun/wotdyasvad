@@ -1,0 +1,9 @@
+---
+title: "Quick Ethernal Static In Home"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@Announcement Ping 
+Quick announcement if you realize that a giveaway isn't up but it should be pls note dyno is down at the moment there fore it  will stay like that until the problem is fixed please wait patiently for it to be back up.

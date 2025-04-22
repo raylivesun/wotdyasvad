@@ -1,0 +1,14 @@
+---
+title: "Input Local Home"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+@Announcement Ping 
+
+We have implemented a bot, @Astra which is ran by me and my branch server. This bot allows you to scan a user via one command and it checks if the user is logged in our scammer database or not. It has over 480+ scammers so far and we are hoping to expand it even further 😇
+
+We offer 2 scans, user scan and server scan. Feel free to use these whenever you’d like. The server is also ran by several staff members here too :))
+
+Have a good one guys.

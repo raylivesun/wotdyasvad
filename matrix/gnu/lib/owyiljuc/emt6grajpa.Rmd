@@ -1,0 +1,12 @@
+---
+title: "Choise it Deny Every Multiples"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Game Jam
+Would you guys like us to host a game jam? If you are willing to participate React with :yes~1:  If Not React with :no~1:
+ @Events Ping @Poll Ping 
+@Announcement Ping
+Btw The prize would be 50k Robux Minimum 

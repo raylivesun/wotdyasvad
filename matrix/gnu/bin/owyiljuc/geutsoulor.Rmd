@@ -1,0 +1,28 @@
+---
+title: "Server Log"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Server Changelog
+:star_green: Deleted Channels:
+・ Events, Polls, Dank Memer, Counting, Epic-Rng, Mimu, Pixxie [+ Its Category], Promotion Services & Events Category [Migrated into "Engagement"], Booster Perks, React Roles, Change Log, Investment [Can now invest in ⁠No Access]
+
+:star_green: Altered Channels:
+・Renamed "Hiring-Percent" to "Lf-Collab"
+・Moved "Misc Logs" to "Important" category
+・Renamed "Info-Roles" to "FAQ"
+・Renamed "Bot-Commands" to "Bots"
+・Renamed "Images" to "Media"
+・Renamed "Inferface" to "Gui" + Changed icon
+・Renamed "Effects" to "Vfx"
+・Renamed "Graphics" to "Gfx" + Changed icon
+・Renamed "Sounds" to "Sfx"
+・Added Channel "Starboard"
+
+:star_green: General Updates
+・Changed server design layout
+・Kicked bots Dank Member, RPG, Counting, Pixxie, Tickets, Mimu, Needle, Invite Logger, BloxBot, Emoji.gg, Giveaway Bot, Tickets (Other One)
+・Deleted roles "Representative", "Development Helper", "Group Member", "Tickets Blacklist"
+APPS ABOVE

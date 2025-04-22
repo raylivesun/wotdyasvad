@@ -1,0 +1,13 @@
+---
+title: "Dialog Rooms Local Coffees"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Staff Applications
+@Announcement Ping 
+Since we are short on Community Moderators, The applications are open again! 
+Application close time: March 1, 2025 at 9:00 AM 
+
+🔗 Community Moderator Application:  https://forms.gle/2jf3JS6axgwZv6nm6 

@@ -1,0 +1,10 @@
+---
+title: "Open Poll Good Oh Update F2p"
+author: "admin"
+date: "2025-04-22"
+output: html_document
+---
+
+Open Source Channel Poll
+Would you like me to bring back the Open Source channel? This will contain all old Open Sourced posts and you would only be able to post there if you applied for a certain role. 
+@Poll Ping
