@@ -1,0 +1,17 @@
+Version: 1.0
+ProjectId: 6ef724bb-7150-4b19-81ab-55b803b1a50d
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Makefile
+MakefilePath: ~/app/dlang-komodo/wotdyasvad
